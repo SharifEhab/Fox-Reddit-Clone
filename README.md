@@ -367,6 +367,10 @@ Fox is a Reddit clone project developed as part of the Cairo University Faculty 
     </td>
 </table>
 
-## 🔒 License <a name = "license"></a>
+## Acknowledgements
+
+Submitted to: Dr. Yusuf ElGhataas & Eng. Mazen
+
+All rights reserved © 2024 to Fox Team - Software Engineering, Cairo University
 
 
