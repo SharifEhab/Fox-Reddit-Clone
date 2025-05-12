@@ -1,4 +1,4 @@
-# Cairo University Faculty of Engineering Software Project - Fox
+# CUFE Software Engineering Course Project - Fox
 
 # Fox: A Reddit Clone
 
@@ -11,7 +11,6 @@ Fox is a Reddit clone project developed as part of the Cairo University Faculty 
 ### Team Lead
 - **Nour Aldeen Hassan Khalaf**
   - **Email:** Nour.hassan1321@gmail.com
-  - **Phone:** 01021297906
 
 ### Frontend
 - **Team Lead:** Omar Adel
